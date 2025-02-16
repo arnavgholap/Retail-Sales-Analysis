@@ -1,5 +1,5 @@
 # Retail-Sales-Analysis
- 12 months of data of sales
+ 12 months of sale data
 # Exploratory Data Analysis on Retail Sales
 ### This repository contains the code and results of an exploratory data analysis (EDA) on a retail sales dataset. The dataset contains information about sales of different products over a period of time. The EDA was conducted to gain insights into the data, such as the following:
 
